@@ -1,0 +1,112 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# C#
+*.suo
+*.user
+*.sln.DotSettings
+*.pdb
+*.aps
+*.pch
+*.obj
+*.ilk
+*.log
+*.bak
+*.tlog
+*.resx
+*.Designer.cs
+*.Local.user
+*.vshost.exe
+*.publish.cache
+*.nuget
+*.git
+
+# General
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Visual Studio Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/workspace.json
+
+# Visual Studio
+.vs/
+
+# IntelliJ IDEA
+.idea/
+
+# Atom
+.atom/
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+
+# Vim
+.swp
+.bak
+
+# Emacs
+# - Local version control
+.bzr
+.cdv
+.git
+.hg
+.svn
+.cvsignore
+
+# - Perforce
+.p4v.d
+
+# - Miscellaneous
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon\r
+
+# Files that might appear in source control by accident
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# Editor directories
+.atom/
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# User-specific files
+.DS_Store
+.localized
+*~
